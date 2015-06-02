@@ -26,6 +26,10 @@
         <activity
             android:name=".LinearActivity"
             android:label="@string/title_activity_linear" >
+        </activity>
+        <activity
+            android:name=".RalativeActivity"
+            android:label="@string/title_activity_ralative" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
