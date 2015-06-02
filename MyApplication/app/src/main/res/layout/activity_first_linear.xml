@@ -8,10 +8,13 @@
     android:orientation="vertical"
     >
 
-    <TextView android:text="@string/hello_world" android:layout_width="fill_parent"
+    <TextView android:text="@string/hello_world" android:layout_width="320dp"
         android:layout_height="wrap_content" android:background="#f00" />
 
     <TextView android:text="TextView 2" android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:background="#0f0" />
+        android:layout_height="wrap_content" android:background="#ffff59fc"
+        android:layout_margin="10dp" android:padding="5dp"/>
 
+    <TextView android:text="@string/hello_world" android:layout_width="320dp"
+        android:layout_height="wrap_content" android:background="#ff5fff88" />
 </LinearLayout>
