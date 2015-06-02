@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_first_linear">FirstLinearActivity</string>
     <string name="title_activity_check_box">CheckBoxActivity</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="title_activity_linear">LinearActivity</string>
 </resources>

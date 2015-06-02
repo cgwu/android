@@ -18,6 +18,14 @@
         <activity
             android:name=".CheckBoxActivity"
             android:label="@string/title_activity_check_box" >
+        </activity>
+        <activity
+            android:name=".ImageViewActivity"
+            android:label="@string/title_activity_image_view" >
+        </activity>
+        <activity
+            android:name=".LinearActivity"
+            android:label="@string/title_activity_linear" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
