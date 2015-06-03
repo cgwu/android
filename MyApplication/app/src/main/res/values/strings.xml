@@ -8,4 +8,5 @@
     <string name="title_activity_image_view">ImageViewActivity</string>
     <string name="title_activity_linear">LinearActivity</string>
     <string name="title_activity_ralative">RalativeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>
